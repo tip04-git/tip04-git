@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Praveena 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
 ---
 
 ## 🚀 **About Me**  
@@ -14,47 +10,54 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/8a/84/208a844f45ef7f2e2c81c2781c86f161.gif" width="500">
+</p>
+
+---
+
 ## 🛠 **Tech Stack**  
-### **Programming Languages**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
+### **Languages**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" height="50px">
 </p>
 
 ### **Frameworks & Libraries**  
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50px" height="50px">
 </p>
 
 ### **Databases & Cloud**  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" height="50px">
 </p>
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tip04-git&theme=tokyonight" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tip04-git&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tip04-git&theme=tokyonight" alt="Profile Summary">
 </p>
 
 ---
 
 ## 📌 **Featured Projects**
-📌 **[Waste Wise Connect](https://github.com/yourusername/waste-wise-connect)** – AI-powered waste segregation  
-📌 **[Consume Wise](https://github.com/yourusername/consume-wise)** – ML for sustainable consumption  
-📌 **[Deceptive Review Detector](https://github.com/yourusername/deceptive-review-detector)** – NLP-based fake review detection  
+📌 **[Waste Wise Connect](https://github.com/tip04-git/waste-wise-connect)** – AI-powered waste segregation  
+📌 **[Consume Wise](https://github.com/tip04-git/consume-wise)** – ML for sustainable consumption  
+📌 **[Deceptive Review Detector](https://github.com/tip04-git/deceptive-review-detector)** – NLP-based fake review detection  
 
 ---
 
