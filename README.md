@@ -38,27 +38,27 @@
 ---
 
 ## 📂 **Projects**
-🔹 **[Project 1 - AI Meal Planner](#)**  
-🔹 **[Project 2 - NoteRep (Study Material Sharing)](#)**  
-🔹 **[Project 3 - Fastiq (AI Model Hub)](#)**  
-🔹 **[Project 4 - Portfolio Website](#)**  
+🔹 **[CONSUME WISE](#)**  
+🔹 **[CROSS CODE](#)**  
+🔹 **[SECOND MIND](#)**  
+🔹 **[WASTE WISE CONNECT](#)**  
 💡 *Check out my repos for more cool projects!*
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tip04-git&theme=tokyonight" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tip04-git&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Summary" width="98%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tip04-git&theme=tokyonight" alt="Profile Summary" width="98%">
 </p>
 
 ---
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=5">
+  <img src="https://github-profile-trophy.vercel.app/?username=tip04-git&theme=radical&no-frame=true&margin-w=5">
 </p>
 
 ---
