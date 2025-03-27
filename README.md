@@ -1,29 +1,24 @@
-<h1 align="center">👋 Hey, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hey, I'm Praveena!</h1>
 
-<p align="center">
-🎓 Final-year Computer Science student specializing in AI & ML.<br>
+## 🚀 About Me  
+🎓 Third Year Computer Science Student specialization in AIML.<br>
 🚀 Passionate about AI, ML, and Full-Stack Development.<br>
-🔍 Currently exploring Large Language Models (LLMs) and AI-powered applications.
-</p>
+👨‍💻 Experienced in **Full-Stack Web Development** and **AI/ML Frameworks**.  
+📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
+🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.
+
 
 ---
 
-## 🚀 About Me  
+
 <p align="center">
   <img src="[Your Image URL]" alt="Tech-Themed Image" width="80%">
 </p>
 
-💡 Enthusiastic **AI & ML** developer with a keen interest in **Generative AI**.  
-👨‍💻 Experienced in **Full-Stack Web Development** and **AI/ML Frameworks**.  
-📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
-🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.  
-
----
-
 ## 🛠 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg&logo=c%2b%2b&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-FEAA2D?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
