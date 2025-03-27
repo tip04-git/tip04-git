@@ -1,5 +1,5 @@
 
-  <img align='center' src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="90%" height=150px style="border-radius: 10px;">
+  <img align='center' src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="90%" height=200px style="border-radius: 10px;">
 
 ---
 
