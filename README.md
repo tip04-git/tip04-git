@@ -57,7 +57,7 @@
   </div>
 
   <div style="max-width: 35%;">
-    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="100%" style="border-radius: 10px;">
+    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="50%" style="border-radius: 10px;">
   </div>
 </div>
 
