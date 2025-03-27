@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <!-- Left Side: Project Details -->
@@ -59,7 +60,7 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 **GitHub Stats**
 <p align="center">
@@ -69,14 +70,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tip04-git&theme=tokyonight" alt="Profile Summary" width="98%">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tip04-git&theme=radical&no-frame=true&margin-w=5">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔗 **Find Me Here**
 <p align="center">
