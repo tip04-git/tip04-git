@@ -41,11 +41,11 @@
         <li><b><a href="https://github.com/tip04-git/consumewise">Consume Wise</a></b>  
           <p>A machine learning model that recommends sustainable consumption practices by analyzing user habits and suggesting eco-friendly alternatives.</p>
         </li>
-        <li><b><a href="https://github.com/orgs/DSA-Group2/repositories">Cross Code</a></b>  
-          <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
-        </li>
         <li><b><a href="https://github.com/tip04-git/AgentSystem">Second Mind</a></b>  
           <p>An AI-powered productivity tool that assists users in organizing thoughts, summarizing content, and generating insights from notes and documents.</p>
+        </li>
+        <li><b><a href="https://github.com/orgs/DSA-Group2/repositories">Cross Code</a></b>  
+          <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
         </li>
         <li><b><a href="#">Waste Wise Connect</a></b>  
           <p>A machine learning-based waste segregation system that helps users classify degradable and non-degradable waste efficiently at the user level.</p>
