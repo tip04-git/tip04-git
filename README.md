@@ -50,7 +50,7 @@
       <p>💡 <i>Check out my repos for more cool projects!</i></p>
     </td>
     <td>
-      <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="100">
+      <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="200">
     </td>
   </tr>
 </table>
