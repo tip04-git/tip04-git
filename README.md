@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="your-image-link.png" alt="Header Image" width="80%" height=200px style="border-radius: 10px;">
+  <img src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="80%" height=200px style="border-radius: 10px;">
 </p>
----
 
 ## 🚀 About Me  👩‍💻
 🎓 Third Year Computer Science Student specialization in AIML.<br>
