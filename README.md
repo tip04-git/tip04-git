@@ -50,9 +50,10 @@
   </div>
 
   <div style="margin-left: 20px;">
-    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="200">
+    <img src="your-image-link.png" width="250" style="border-radius: 10px;">
   </div>
 </div>
+
 
 
 
