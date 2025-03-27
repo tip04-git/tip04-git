@@ -37,21 +37,22 @@
 
 ---
 
-## 📂 **Projects**  
-<div align="left">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>📂 <b>Projects</b></h2>
+    <ul>
+      <li>🔹 <b><a href="#">CONSUME WISE</a></b></li>
+      <li>🔹 <b><a href="#">CROSS CODE</a></b></li>
+      <li>🔹 <b><a href="#">SECOND MIND</a></b></li>
+      <li>🔹 <b><a href="#">WASTE WISE CONNECT</a></b></li>
+    </ul>
+    <p>💡 <i>Check out my repos for more cool projects!</i></p>
+  </div>
   
-🔹 **[CONSUME WISE](#)**  
-🔹 **[CROSS CODE](#)**  
-🔹 **[SECOND MIND](#)**  
-🔹 **[WASTE WISE CONNECT](#)**  
-💡 *Check out my repos for more cool projects!*
-
+  <div>
+    <img src="your-image-link" width="200">
+  </div>
 </div>
-
-<div align="right">
-  <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="200">
-</div>
-
 
 
 ---
