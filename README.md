@@ -1,22 +1,16 @@
-<h1 align="center">👋 Hey, I'm Praveena! 👩‍💻 </h1>
 <p align="center">
-  <img src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image.png?raw=true" alt="Header Image" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="80%" style="border-radius: 10px;">
 </p>
+---
 
-## 🚀 About Me  
+## 🚀 About Me  👩‍💻
 🎓 Third Year Computer Science Student specialization in AIML.<br>
 🚀 Passionate about AI, ML, and Full-Stack Development.<br>
 👨‍💻 Experienced in **Full-Stack Web Development** and **AI/ML Frameworks**.  
 📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
 🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.
 
-
 ---
-
-
-<p align="center">
-  <img src="[Your Image URL]" alt="Tech-Themed Image" width="80%">
-</p>
 
 ## 🛠 **Tech Stack**
 <p align="center">
@@ -66,13 +60,6 @@
   </tr>
 </table>
 
-
-
-
-
-
-
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -104,4 +91,4 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
+---
