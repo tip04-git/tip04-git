@@ -36,30 +36,31 @@
 </p>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 55%;">
-    <h2>📂 <b>Projects</b></h2>
-    <ul>
-      <li>🔹 <b><a href="#">CONSUME WISE</a></b>  
-        <p>A machine learning model that recommends sustainable consumption practices by analyzing user habits and suggesting eco-friendly alternatives.</p>
-      </li>
-      <li>🔹 <b><a href="#">CROSS CODE</a></b>  
-        <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
-      </li>
-      <li>🔹 <b><a href="#">SECOND MIND</a></b>  
-        <p>An AI-powered productivity tool that assists users in organizing thoughts, summarizing content, and generating insights from notes and documents.</p>
-      </li>
-      <li>🔹 <b><a href="#">WASTE WISE CONNECT</a></b>  
-        <p>A machine learning-based waste segregation system that helps users classify degradable and non-degradable waste efficiently at the user level.</p>
-      </li>
-    </ul>
-    <p>💡 <i>Check out my repos for more cool projects!</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 35%; text-align: center;">
-    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="100%" style="max-width: 300px; border-radius: 10px;">
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h2>📂 <b>Projects</b></h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>🔹 <b><a href="#">CONSUME WISE</a></b>  
+          <p>A machine learning model that recommends sustainable consumption practices by analyzing user habits and suggesting eco-friendly alternatives.</p>
+        </li>
+        <li>🔹 <b><a href="#">CROSS CODE</a></b>  
+          <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
+        </li>
+        <li>🔹 <b><a href="#">SECOND MIND</a></b>  
+          <p>An AI-powered productivity tool that assists users in organizing thoughts, summarizing content, and generating insights from notes and documents.</p>
+        </li>
+        <li>🔹 <b><a href="#">WASTE WISE CONNECT</a></b>  
+          <p>A machine learning-based waste segregation system that helps users classify degradable and non-degradable waste efficiently at the user level.</p>
+        </li>
+      </ul>
+      <p>💡 <i>Check out my repos for more cool projects!</i></p>
+    </td>
+    <td style="text-align: center; width: 30%;">
+      <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="250" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 
 
 
