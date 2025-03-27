@@ -1,57 +1,56 @@
-<h1 align="center">Hi, I'm Praveena! 👋</h1>
-
----
-
-## 🚀 **About Me**  
-🔹 AI & ML Enthusiast | Software Developer | Tech Explorer  
-🔹 Passionate about **building AI-driven applications**  
-🔹 Skilled in **Machine Learning, NLP, and Full-Stack Development**  
-🔹 Always learning, experimenting, and building impactful projects  
-
----
+<h1 align="center">👋 Hey, I'm [Your Name]!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Fb8Mtk6BtoVbnnq5Ln/giphy.gif" width="400" alt="Coding Girl">
+🎓 Final-year Computer Science student specializing in AI & ML.<br>
+🚀 Passionate about AI, ML, and Full-Stack Development.<br>
+🔍 Currently exploring Large Language Models (LLMs) and AI-powered applications.
 </p>
 
 ---
 
-## 🛠 **Tech Stack**  
-
-### **Programming Languages**  
+## 🚀 About Me  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60px" height="60px">
+  <img src="[Your Image URL]" alt="Tech-Themed Image" width="80%">
 </p>
 
-### **Frameworks & Libraries**  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" height="60px">
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60px" height="60px">
-</p>
+💡 Enthusiastic **AI & ML** developer with a keen interest in **Generative AI**.  
+👨‍💻 Experienced in **Full-Stack Web Development** and **AI/ML Frameworks**.  
+📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
+🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.  
 
-### **Databases & Cloud**  
+---
+
+## 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60px" height="60px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" height="60px">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-FEAA2D?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 ---
 
-## 📌 **Featured Projects**
-📌 **[Waste Wise Connect](https://github.com/yourusername/waste-wise-connect)** – AI-powered waste segregation  
-📌 **[Consume Wise](https://github.com/yourusername/consume-wise)** – ML for sustainable consumption  
-📌 **[Deceptive Review Detector](https://github.com/yourusername/deceptive-review-detector)** – NLP-based fake review detection  
-📌 **[Talent Hub](https://github.com/yourusername/talent-hub)** – A talent management platform  
+## 📂 **Projects**
+🔹 **[Project 1 - AI Meal Planner](#)**  
+🔹 **[Project 2 - NoteRep (Study Material Sharing)](#)**  
+🔹 **[Project 3 - Fastiq (AI Model Hub)](#)**  
+🔹 **[Project 4 - Portfolio Website](#)**  
+💡 *Check out my repos for more cool projects!*
 
 ---
 
-## 📊 **GitHub Stats**
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" width="48%">
@@ -60,18 +59,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" alt="Profile Summary" width="98%">
 </p>
 
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=5">
+</p>
 
 ---
 
-## 📫 **Let's Connect!**
+## 🔗 **Find Me Here**
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50px">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px">
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://github.com/YourGitHubUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
