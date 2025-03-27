@@ -57,7 +57,7 @@
   </div>
 
   <div style="flex: 1; min-width: 35%; text-align: center;">
-    <img src="your-image-link.png" width="100%" style="max-width: 300px; border-radius: 10px;">
+    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="100%" style="max-width: 300px; border-radius: 10px;">
   </div>
 </div>
 
