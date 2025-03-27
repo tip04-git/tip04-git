@@ -48,11 +48,12 @@
     </ul>
     <p>💡 <i>Check out my repos for more cool projects!</i></p>
   </div>
-  
-  <div>
+
+  <div style="margin-left: 20px;">
     <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="200">
   </div>
 </div>
+
 
 
 ---
