@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hey, I'm Praveena! 👩‍💻 </h1>
+<p align="center">
+  <img src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image.png?raw=true" alt="Header Image" width="100%" style="border-radius: 10px;">
+</p>
 
 ## 🚀 About Me  
 🎓 Third Year Computer Science Student specialization in AIML.<br>
