@@ -50,7 +50,7 @@
   </div>
   
   <div>
-    <img src="your-image-link" width="200">
+    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="200">
   </div>
 </div>
 
