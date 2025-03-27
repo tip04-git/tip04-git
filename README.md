@@ -36,31 +36,31 @@
 </p>
 
 ---
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h2>📂 <b>Projects</b></h2>
+  <div style="max-width: 60%;">
+    <h2><b>Projects</b></h2>
     <ul>
-      <li>🔹 <b><a href="#">CONSUME WISE</a></b>
+      <li><b><a href="#">ConsumeWise</a></b>  
         <p>A machine learning model that recommends sustainable consumption practices by analyzing user habits and suggesting eco-friendly alternatives.</p>
       </li>
-      <li>🔹 <b><a href="#">CROSS CODE</a></b>
+      <li><b><a href="#">Cross Code</a></b>  
         <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
       </li>
-      <li>🔹 <b><a href="#">SECOND MIND</a></b>
+      <li><b><a href="#">Second Mind</a></b>  
         <p>An AI-powered productivity tool that assists users in organizing thoughts, summarizing content, and generating insights from notes and documents.</p>
       </li>
-      <li>🔹 <b><a href="#">WASTE WISE CONNECT</a></b>
+      <li><b><a href="#">Waste Wise Connect</a></b>  
         <p>A machine learning-based waste segregation system that helps users classify degradable and non-degradable waste efficiently at the user level.</p>
       </li>
     </ul>
     <p>💡 <i>Check out my repos for more cool projects!</i></p>
   </div>
 
-  <div style="margin-left: 20px;">
-    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="250" style="border-radius: 10px;">
+  <div style="max-width: 35%;">
+    <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="100%" style="border-radius: 10px;">
   </div>
 </div>
+
 
 
 
