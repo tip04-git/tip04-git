@@ -38,13 +38,13 @@
     <td style="vertical-align: top; padding-right: 20px; border: none;">
       <h2>💡<b>Projects</b></h2>
       <ul style="list-style-type: none; padding: 0;">
-        <li><b><a href="#">Consume Wise</a></b>  
+        <li><b><a href="https://github.com/tip04-git/consumewise">Consume Wise</a></b>  
           <p>A machine learning model that recommends sustainable consumption practices by analyzing user habits and suggesting eco-friendly alternatives.</p>
         </li>
-        <li><b><a href="#">Cross Code</a></b>  
+        <li><b><a href="https://github.com/orgs/DSA-Group2/repositories">Cross Code</a></b>  
           <p>A cross-language compiler that enables users to execute Python, Bash, and JavaScript code seamlessly without needing separate runtime environments.</p>
         </li>
-        <li><b><a href="#">Second Mind</a></b>  
+        <li><b><a href="https://github.com/tip04-git/AgentSystem">Second Mind</a></b>  
           <p>An AI-powered productivity tool that assists users in organizing thoughts, summarizing content, and generating insights from notes and documents.</p>
         </li>
         <li><b><a href="#">Waste Wise Connect</a></b>  
