@@ -36,7 +36,7 @@
 </p>
 
 ---
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;border=none">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <h2>📂 <b>Projects</b></h2>
