@@ -9,7 +9,7 @@
 📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
 🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 **Tech Stack**
 <p align="center">
