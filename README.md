@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="80%" style="border-radius: 10px;">
-</p>
+
+  <img align='center' src="https://github.com/tip04-git/tip04-git/blob/main/github-header-image%20(1).png?raw=true" alt="Header Image" width="90%" style="border-radius: 10px;">
+
 ---
 
 ## 🚀 About Me  👩‍💻
