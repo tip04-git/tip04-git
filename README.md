@@ -6,7 +6,7 @@
 🎓 Third Year Computer Science Student specialization in AIML.<br>
 🚀 Passionate about AI, ML, and Full-Stack Development.<br>
 👨‍💻 Experienced in **Full-Stack Web Development** and **AI/ML Frameworks**.  
-📚 I believe in **learning by doing**, and I love working on **practical AI/ML projects**.  
+📚 I believe in **learning by doing**, and I love working on **practical projects**.  
 🎯 Currently improving my skills in **LLMs, Data Science, and Cloud Computing**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -20,7 +20,6 @@
  
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
  
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -52,7 +51,7 @@
           <p>A machine learning-based waste segregation system that helps users classify degradable and non-degradable waste efficiently at the user level.</p>
         </li>
       </ul>
-      <p>🔍 <i>Check out my repos for more cool projects!</i></p>
+      <p>🔍 <i>Check out my repos for more cool stuff!!</i></p>
     </td>
     <td style="text-align: center; width: 30%; border: none;">
       <img src="https://github.com/tip04-git/tip04-git/blob/main/view-3d-woman-using-laptop.jpg?raw=true" width="450" style="border-radius: 10px;">
